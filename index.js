@@ -7,6 +7,10 @@ function happyHolidaysTo(name) {
   return ("Happy Holidays, ${name}")
 }
 
+console.log(happyHolidaysTo("Patrick"))
+
 function happyCustomHolidayTo(holiday, name) {
   return ("happy ${holiday}, ${name}")
 }
+
+console.log(happyCustomHolidayTo("Independence Day", "you"))
