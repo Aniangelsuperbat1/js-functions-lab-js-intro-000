@@ -1,6 +1,4 @@
 // write your code below!
-let name = "You!"
-
 function happyHolidays() {
   return ("Happy holidays!")
 }
